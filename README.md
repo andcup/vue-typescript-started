@@ -1,4 +1,8 @@
-# vue-typescript-template
+# vue-typescript-started
+
+vue-typescript 模板：
+
+![avatar](demo.png)
 
 ## Project setup
 ```
@@ -19,3 +23,9 @@ yarn run build
 ```
 yarn run lint
 ```
+
+参考:
+
+https://cli.vuejs.org/guide/plugins-and-presets.html
+
+QQ交流群：144281548
